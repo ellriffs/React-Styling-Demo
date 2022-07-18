@@ -1,0 +1,13 @@
+@media (max-width: 390px) {
+  .pic-container {
+    visibility: hidden;
+  }
+}
+
+.random-pic:hover {
+  opacity: 0.8;
+}
+
+.random-pic:active {
+  box-shadow: 3px 3px 3px blue;
+}
